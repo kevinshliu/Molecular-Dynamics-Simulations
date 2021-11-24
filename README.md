@@ -1,1 +1,1 @@
-# Molecular-Dynamics-Simulations
+# Molecular Dynamics Simulations
